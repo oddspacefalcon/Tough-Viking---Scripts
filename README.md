@@ -1,2 +1,2 @@
-# Tough-Viking project in unity-Scripts
+# Tough-Viking project in Unity
 The scripts are used with and attatched to objects in the game engine Unity.
